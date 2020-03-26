@@ -94,5 +94,5 @@ yelp:
 publish0x:
   name: "Publish0x"
   urlTemplate: "https://www.publish0x.com/{value}"
-  icon: "fab fa-link"
+  icon: "fa fa-link"
   
