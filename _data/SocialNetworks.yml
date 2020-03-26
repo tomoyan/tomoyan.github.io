@@ -90,3 +90,9 @@ yelp:
   name: "Yelp"
   urlTemplate: "https://{value}.yelp.com"
   icon: "fab fa-yelp"
+
+publish0x:
+  name: "Publish0x"
+  urlTemplate: "https://www.publish0x.com/{value}"
+  icon: "fab fa-yelp"
+  
