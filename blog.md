@@ -4,6 +4,9 @@ title: Blog
 subtitle: Publish0x Articles
 ---
 
+<!-- my publish0x articles -->
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" content-ids="n41VEQGrjaqMJD0g"></publish0x-posts-widget>
+
 My name is Inigo Montoya. I have the following qualities:
 
 - I rock a great mustache
