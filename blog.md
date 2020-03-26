@@ -8,9 +8,7 @@ subtitle: Publish0x Articles
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" content-type="tag" content-ids="19,104,9"></publish0x-posts-widget>
 
 <!-- publish0x my articles -->
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="30" content-ids="n41VEQGrjaqMJD0g"></publish0x-posts-widget>
-
-<!-- publish0x author articles -->
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="21" content-ids="n41VEQGrjaqMJD0g"></publish0x-posts-widget>
 
 <!--
 My name is Inigo Montoya. I have the following qualities:
