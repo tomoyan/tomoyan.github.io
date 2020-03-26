@@ -2,6 +2,7 @@
 layout: page
 title: Blog
 subtitle: Publish0x Articles
+use-site-title: true
 ---
 
 <!-- publish0x tags articles -->
