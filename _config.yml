@@ -20,7 +20,7 @@ description: Blog about blockchain and cryptocurrency
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "tomoyan.github.io"
+  Blog: "/"
   About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -96,7 +96,8 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "tomoyan.github.io/"
 
 # --- Web Statistics Section --- #
 
