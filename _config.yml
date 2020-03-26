@@ -20,8 +20,10 @@ description: Blog about blockchain and cryptocurrency
 
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
-  About Me: "aboutme"
+  Blog:
+    - Publish0x: "https://www.publish0x.com/"
+    - Uptrennd: "https://www.uptrennd.com/user/tomoyan/"
+  # About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
