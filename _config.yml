@@ -21,7 +21,7 @@ description: Blog about blockchain and cryptocurrency
 # List of links in the navigation bar
 navbar-links:
   Blog: "tomoyan.github.io"
-  # About Me: "aboutme"
+  About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     # - Learn markdown: "http://www.markdowntutorial.com/"
