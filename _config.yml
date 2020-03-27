@@ -110,7 +110,7 @@ url-pretty: "tomoyan.github.io"
 #google_analytics: "UA-162041349-1"
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "GTM-PQW69G9"
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
