@@ -104,7 +104,7 @@ url-pretty: "tomoyan.github.io"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "UA-162041349-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: "UA-162041349-1"
