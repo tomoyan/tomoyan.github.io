@@ -20,6 +20,7 @@ description: Blog about blockchain and cryptocurrency
 
 # List of links in the navigation bar
 navbar-links:
+  Technology: "technology"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
     - Uptrennd: "https://www.uptrennd.com/user/tomoyan/"
