@@ -107,7 +107,7 @@ url-pretty: "tomoyan.github.io"
 gtag: "UA-162041349-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-162041349-1"
+# google_analytics: "UA-162041349-1"
 
 # Google Tag Manager ID
 gtm: "GTM-PQW69G9"
