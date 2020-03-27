@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technology
-subtitle: Latest Technology and Science News
+subtitle: Latest Technology and Science Articles
 ---
 
 <!-- publish0x technology tags articles -->
