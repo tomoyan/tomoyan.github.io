@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: tomoyan.github.io
+Token: 6b2c66baa0a8c7c66f0217f1a8dbf0da894907a98b3e0a16847cd51c7bbcb334
