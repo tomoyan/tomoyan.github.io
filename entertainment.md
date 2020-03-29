@@ -10,7 +10,7 @@ subtitle: Latest Eentertainment and Lifestyle Articles
 
 <!-- publish0x movie tags articles -->
 <h2>Movie News</h2><hr/>
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="6" content-type="tag" content-ids="6814,984,12785,801"></publish0x-posts-widget>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="6" content-type="tag" content-ids="801,6814,984,12785"></publish0x-posts-widget>
 
 <!-- publish0x music tags articles -->
 <h2>Music News</h2><hr/>
