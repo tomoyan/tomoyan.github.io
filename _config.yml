@@ -20,6 +20,7 @@ description: Blog about blockchain and cryptocurrency
 
 # List of links in the navigation bar
 navbar-links:
+  Entertainment: "entertainment"
   Technology: "technology"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
