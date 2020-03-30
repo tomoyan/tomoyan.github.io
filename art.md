@@ -12,6 +12,6 @@ subtitle: Latest Art Articles
 <h2>Digital Art News</h2><hr/>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="9" content-type="tag" content-ids="2394,5338"></publish0x-posts-widget>
 
-<!-- publish0x photoshop articles -->
-<h2>Photoshop News</h2><hr/>
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="9" content-type="tag" content-ids="851,119"></publish0x-posts-widget>
+<!-- publish0x photo articles -->
+<h2>Photo News</h2><hr/>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="9" content-type="tag" content-ids="851,119,4371"></publish0x-posts-widget>
