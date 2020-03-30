@@ -6,4 +6,12 @@ subtitle: Latest Art Articles
 
 <!-- publish0x art tags articles -->
 <h2>Art News</h2><hr/>
-<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="30" content-type="tag" content-ids="3683,452,2394,2004,5338"></publish0x-posts-widget>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="9" content-type="tag" content-ids="452,2004,3683"></publish0x-posts-widget>
+
+<!-- publish0x digital art tags articles -->
+<h2>Digital Art News</h2><hr/>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="9" content-type="tag" content-ids="2394,5338"></publish0x-posts-widget>
+
+<!-- publish0x photoshop articles -->
+<h2>Photoshop News</h2><hr/>
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" posts-number="9" content-type="tag" content-ids="851,119"></publish0x-posts-widget>
