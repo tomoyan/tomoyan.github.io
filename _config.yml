@@ -20,8 +20,8 @@ description: Blog about blockchain and cryptocurrency
 
 # List of links in the navigation bar
 navbar-links:
-  Entertainment: "entertainment"
   Technology: "technology"
+  Entertainment: "entertainment"
   Photography: "photography"
   Art: "art"
   Blog:
