@@ -22,6 +22,7 @@ description: Blog about blockchain and cryptocurrency
 navbar-links:
   Entertainment: "entertainment"
   Technology: "technology"
+  Photography: "photography"
   Art: "art"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
