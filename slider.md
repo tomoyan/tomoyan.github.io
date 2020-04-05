@@ -9,7 +9,7 @@ subtitle: Latest Slider Articles
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.1111%; padding-top: 120px;"><a href="https://www.publish0x.com/tomoyan/publish0x-passive-income-project-march-earnings-dollar-45-xylemo?a=4zbqpvkapr" data-iframely-url="//cdn.iframe.ly/TJ2mzRk"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 
-<!-- publish0x slider articles -->
+<!-- publish0x iframely.com slider articles -->
 <div class="owl-carousel owl-theme">
     <!-- publish0x slider card 1 -->
     <div class="item">
@@ -54,3 +54,6 @@ subtitle: Latest Slider Articles
     })
 </script>
 
+<!-- publish0x iframely.com small featured cards -->
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.publish0x.com/tomoyan/brave-rewards-no-brave-ad-notifications-fix-windows-10-xdjznv?a=4zbqpvkapr" data-iframely-url="//cdn.iframe.ly/GYVhiil?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.publish0x.com/tomoyan/earn-more-tips-create-your-own-publish0x-website-with-widget-xjpklx?a=4zbqpvkapr" data-iframely-url="//cdn.iframe.ly/sSjFY44?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
