@@ -32,10 +32,11 @@ subtitle: Latest Slider Articles
         </h4>
     </div>
 </div>
-<hr>
-<a class="button secondary url" href="#one">1</a>
-<a class="button secondary url" href="#two">2</a>
-<a class="button secondary url" href="#three">3</a>
+<center>
+  <a class="button secondary url" href="#one">1</a>
+  <a class="button secondary url" href="#two">2</a>
+  <a class="button secondary url" href="#three">3</a>
+</center>>
 
 <!-- call owl slider cards plugin -->
 <script>
