@@ -32,11 +32,20 @@ subtitle: Latest Slider Articles
         </h4>
     </div>
 </div>
+<style>
+.dot {
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+}
+</style>
 <center>
-  <a class="button secondary url" href="#one">1</a>
-  <a class="button secondary url" href="#two">2</a>
-  <a class="button secondary url" href="#three">3</a>
-</center>>
+  <a class="button secondary url" href="#one"><span class="dot"></span></a>
+  <a class="button secondary url" href="#two"><span class="dot"></span></a>
+  <a class="button secondary url" href="#three"><span class="dot"></span></a>
+</center>
 
 <!-- call owl slider cards plugin -->
 <script>
