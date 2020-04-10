@@ -7,7 +7,7 @@ subtitle: Latest Slider Articles
 
 <!-- KyberWidget This is the 'Pay with tokens' button, place it anywhere on your webpage -->
 <!-- KyberWidget You can add multiple buttons into a same page -->
-<a href='https://widget.kyber.network/v0.7.5/?type=pay&mode=popup&lang=en&receiveAddr=0x1eEF27f5Da8652df413370298D3fCFb0c35bbD25&receiveToken=ETH&callback=https%3A%2F%2Fkyberpay-sample.knstats.com%2Fcallback&paramForwarding=true&network=ropsten&theme=theme-dark' class='kyber-widget-button theme-dark theme-supported' name='tomoyan - Powered by KyberNetwork' title='Pay with tokens' target='_blank'>Send A Tip</a>
+<a href='https://widget.kyber.network/v0.7.5/?type=pay&mode=popup&lang=en&receiveAddr=0x1eEF27f5Da8652df413370298D3fCFb0c35bbD25&receiveToken=ETH&callback=https%3A%2F%2Fkyberpay-sample.knstats.com%2Fcallback&paramForwarding=true&theme=theme-dark' class='kyber-widget-button theme-dark theme-supported' name='KyberWidget - Powered by KyberNetwork' title='Pay with tokens' target='_blank'>Send A Tip</a>
 
 <!-- Add this to the end of <body> tag -->
 <script async src='https://widget.kyber.network/v0.7.5/widget.js'></script>
