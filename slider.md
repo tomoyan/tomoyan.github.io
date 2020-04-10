@@ -4,14 +4,9 @@ title: Slider
 subtitle: Latest Slider Articles
 ---
 
-<!-- Add this to the <head> tag -->
-<link rel='stylesheet' href='https://widget.kyber.network/v0.7.5/widget.css'>
-<!-- This is the 'Pay with tokens' button, place it anywhere on your webpage -->
-<!-- You can add multiple buttons into a same page -->
+<!-- KyberWidget This is the 'Pay with tokens' button, place it anywhere on your webpage -->
+<!-- KyberWidget You can add multiple buttons into a same page -->
 <a href='https://widget.kyber.network/v0.7.5/?type=pay&mode=popup&lang=en&receiveAddr=0x1eEF27f5Da8652df413370298D3fCFb0c35bbD25&receiveToken=ETH&receiveAmount=1&callback=https%3A%2F%2Fkyberpay-sample.knstats.com%2Fcallback&paramForwarding=true&network=ropsten&theme=theme-dark'class='kyber-widget-button theme-dark theme-supported' name='KyberWidget - Powered by KyberNetwork' title='Pay with tokens'target='_blank'>Pay with tokens</a>
-
-<!-- Add this to the end of <body> tag -->
-<script async src='https://widget.kyber.network/v0.7.5/widget.js'></script>
 
 <!-- publish0x iframely.com big featured card -->
 <h2>Featured</h2><hr/>
@@ -82,3 +77,6 @@ subtitle: Latest Slider Articles
       })
     })
 </script>
+
+<!-- KyberWidget Add this to the end of <body> tag -->
+<script async src='https://widget.kyber.network/v0.7.5/widget.js'></script>
