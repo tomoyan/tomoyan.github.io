@@ -27,8 +27,8 @@ navbar-links:
   Art: "art"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
-    - Uptrennd: "https://www.uptrennd.com/user/tomoyan/"
-    - Hive: "https://hive.blog/@tomoyan/"
+    # - Uptrennd: "https://www.uptrennd.com/user/tomoyan/"
+    # - Hive: "https://hive.blog/@tomoyan/"
   # About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
