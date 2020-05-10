@@ -23,9 +23,6 @@ navbar-links:
   パブリッシュ0x: "パブリッシュ0x"
   Technology: "technology"
   Entertainment: "entertainment"
-  Photography: "photography"
-  Culture: "culture"
-  Art: "art"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
     # - Uptrennd: "https://www.uptrennd.com/user/tomoyan/"
