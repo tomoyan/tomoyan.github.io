@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Token Swap
-subtitle: Fast and Simple exchange Ethereum tokens. ETH トークンを簡単にエクスチェンジ
+subtitle: Fast, simple, and secure ETH token exchange.<br/> ETHトークンを簡単にエクスチェンジ
 ---
 
-<h2>TomoyanSwap</h2><hr/>
+<h2>tomoyan TokenSwap</h2><hr/>
 
