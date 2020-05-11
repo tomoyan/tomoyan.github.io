@@ -6,7 +6,6 @@ subtitle: Fast, simple, and secure ETH token exchange.<br/>
 ---
 
 <h2>Tomoyan TokenSwap</h2><hr/>
-<h3>トークンをスワップ</h3>
 <center>
     <!-- This is the 'Swap tokens' button, place it anywhere on your webpage -->
     <a href='https://widget.kyber.network/v0.7.5/?type=swap&mode=popup&lang=en&defaultPair=ETH_DAI&callback=https%3A%2F%2Fkyberpay-sample.knstats.com%2Fcallback&paramForwarding=true&network=mainnet&commissionId=0x1eEF27f5Da8652df413370298D3fCFb0c35bbD25&theme=theme-dark'
