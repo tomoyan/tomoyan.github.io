@@ -21,7 +21,7 @@ description: Blog about blockchain and cryptocurrency
 # List of links in the navigation bar
 navbar-links:
   パブリッシュ0x: "パブリッシュ0x"
-  Token Swap: "swap"
+  #Token Swap: "swap"
   Technology: "technology"
   Entertainment: "entertainment"
   Blog:
