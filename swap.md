@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Token Swap
-subtitle: Fast, simple, and secure ETH token exchange.<br/>
-    ERC20トークンを簡単にエクスチェンジできる！
+subtitle: Fast, simple, and secure ETH token exchange
 ---
 
 <h2>TomoyanSwap</h2><hr/>
@@ -14,8 +13,8 @@ subtitle: Fast, simple, and secure ETH token exchange.<br/>
     <h3>What is TomoyanSwap</h3>
     <p>
         TomoyanSwap allows anyone to convert tokens directly from their wallet.
-        n an instant, convenient and secure way
         TomoyanSwap is a fast, convenient and secure platform for converting one ERC20 token to another.
         TomoyanSwap is powered by Kyber's on-chain liquidity protocol.
+        Ethereumのウォレットがあれば誰でも簡単にERC20トークンをエクスチェンジできます。
     </p>
 </center>
