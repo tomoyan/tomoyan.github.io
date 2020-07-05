@@ -21,8 +21,8 @@ description: Blog about blockchain and cryptocurrency
 # List of links in the navigation bar
 navbar-links:
   パブリッシュ0x: "パブリッシュ0x"
-  Token Swap: "swap"
-  Technology: "technology"
+  Blockchain DeFi: "technology"
+  Tomoyan Swap: "swap"
   Entertainment: "entertainment"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
