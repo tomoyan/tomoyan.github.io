@@ -6,7 +6,6 @@ subtitle: Blockchain and Defi Tools
 
 <!-- iframely.com small featured card -->
 <h2>Crypto Exchange</h2><hr/>
-
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://uniswap.org/" data-iframely-url="//cdn.iframe.ly/XzHpZUO?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://simpleswap.io/?ref=4f1871fcc5b4" data-iframely-url="//cdn.iframe.ly/WhRHzs0?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
@@ -19,8 +18,11 @@ subtitle: Blockchain and Defi Tools
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tomoyan.github.io/swap/" data-iframely-url="//cdn.iframe.ly/VuZ4GyM"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<h2>DeFi Lending Rate</h2><hr/>
+<!-- publish0x blockchain news -->
+<script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" content-type="tag" content-ids="2432"></publish0x-posts-widget>
 
+<!-- iframely.com small featured card -->
+<h2>DeFi Lending Rate</h2><hr/>
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://defirate.com/lend/" data-iframely-url="//cdn.iframe.ly/dzmw7AK"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://defiscore.io/" data-iframely-url="//cdn.iframe.ly/0vB4Ofy?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
