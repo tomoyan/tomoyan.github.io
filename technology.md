@@ -19,6 +19,7 @@ subtitle: Blockchain and Defi Tools
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://tomoyan.github.io/swap/" data-iframely-url="//cdn.iframe.ly/VuZ4GyM"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <!-- publish0x blockchain news -->
+<h2>Blockchain Technology</h2><hr/>
 <script src="https://www.publish0x.com/widget/code"></script><publish0x-posts-widget aff="4zbqpvkapr" content-type="tag" content-ids="2432"></publish0x-posts-widget>
 
 <!-- iframely.com small featured card -->
