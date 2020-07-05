@@ -1,8 +1,12 @@
 ---
 layout: page
 title: Technology
-subtitle: Latest Technology and Science Articles
+subtitle: Blockchain, Defi Technology and Tools
 ---
+
+<!-- iframely.com small featured card -->
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://simpleswap.io/?ref=4f1871fcc5b4" data-iframely-url="//cdn.iframe.ly/WhRHzs0?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+
 
 <!-- publish0x technology tags articles -->
 <h2>Technology News</h2><hr/>
