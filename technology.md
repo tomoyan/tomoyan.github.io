@@ -35,7 +35,7 @@ subtitle: Blockchain and Defi Tools
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://swapzone.io/" data-iframely-url="//cdn.iframe.ly/crKCs29?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="http://changenow.io/" data-iframely-url="//cdn.iframe.ly/nKGxfqS?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://changenow.io?link_id=1b6aecbe211d98" data-iframely-url="//cdn.iframe.ly/nKGxfqS?iframe=card-small"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
 <!-- publish0x blockchain news -->
 <h2>Blockchain Technology News</h2><hr/>
