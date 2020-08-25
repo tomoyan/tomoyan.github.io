@@ -23,10 +23,12 @@ navbar-links:
   パブリッシュ0x: "パブリッシュ0x"
   Blockchain DeFi: "technology"
   Tomoyan Swap: "swap"
-  Entertainment: "entertainment"
+  # Entertainment: "entertainment"
   Blog:
     - Publish0x: "https://www.publish0x.com/"
     - Hive: "https://hive.blog/@tomoyan/"
+    - Steemit: "https://steemit.com/@tomoyan"
+    - Blurt: "https://blurt.world/@tomoyan"
   # About Me: "aboutme"
   # Resources:
     # - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
