@@ -14,11 +14,11 @@
 
 <body>
 
-<!--     <script type="text/javascript">
+    <script type="text/javascript">
         $(window).on('load', function() {
             $('#spinner-preloader').delay(1000).fadeOut(1000);
     });
-    </script> -->
+    </script>
 
     <div class="d-flex justify-content-center p-5" style="height: 100px;">
         <div id="spinner-preloader">
