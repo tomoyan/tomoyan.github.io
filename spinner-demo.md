@@ -1,7 +1,4 @@
 
-<!doctype html>
-<html>
-
 <head>
     <title>Spinner Demo</title>
 
@@ -29,5 +26,3 @@
     </div>
 
 </body>
-
-</html>
