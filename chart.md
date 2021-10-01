@@ -1,5 +1,5 @@
 ---
 layout: page
-title: PRE Node Chart
-subtitle: Node Operator Reward Chart
+title: Presearch Node Chart
+subtitle: Node Operator Reward Stats
 ---
