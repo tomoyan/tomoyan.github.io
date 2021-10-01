@@ -85,6 +85,7 @@ subtitle: Node Operator Reward Stats
                 type: 'linear',
                 display: true,
                 position: 'right',
+                beginAtZero: true,
                 // grid line setting
                 // only show grid lines for TOTAL_PRE_EARNED
                 grid: {
