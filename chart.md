@@ -23,6 +23,7 @@ subtitle: Node Operator Reward Stats
       '2021-07',
       '2021-08',
       '2021-09',
+      '2021-10',
     ];
 
     const data = {
@@ -42,7 +43,8 @@ subtitle: Node Operator Reward Stats
             168.04505027629872,
             212.62082680586974,
             157.23791076059845,
-            43.09407037490494
+            43.09407037490494,
+            42.74941024311731,            
         ],
         yAxisID: 'total_pre_earned',
         order: 2 // dataset drawing order
@@ -62,7 +64,8 @@ subtitle: Node Operator Reward Stats
             232,
             266,
             168,
-            332
+            332,
+            196,
         ],
         yAxisID: 'total_requests',
         order: 1 // dataset drawing order
