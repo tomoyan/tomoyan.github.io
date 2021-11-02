@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Presearch Node Reward Chart
-subtitle: Node Operator Reward Stats
+subtitle: 4,833 PRE Staked Node 
 ---
 
 <!-- Chart.js v3.5.1 -->
