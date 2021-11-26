@@ -1,1 +1,1 @@
-![maintenance](https://cdn.steemitimages.com/DQmT6CbFs1SFZgnaYC1LNYJa6hbiEqEhrpTox3m2pcxCH93/maintenance.png)
+![maintenance](https://cdn.steemitimages.com/DQmVofSvvW7bHNc9TR5DGDoCffPE2BkrJG8MWqx1yrUwRqU/bg.png)
