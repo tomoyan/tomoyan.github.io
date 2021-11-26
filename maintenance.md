@@ -1,29 +1,8 @@
-<!DOCTYPE html>
-    <html>
-    <head>
-        <title>Maintenance Mode</title>
-        <style>
-            body, html {
-              height: 100%;
-              margin: 0;
-            }
-
-            .bg {
-              /* maintenance image */
-              background-image: url("maintenance.png");
-
-              /* Full height */
-              height: 100%;
-
-              /* Center and scale the image nicely */
-              background-position: center;
-              background-repeat: no-repeat;
-              background-size: cover;
-            }
-        </style>
-    </head>
-
-    <body>
-        <div class="bg"></div>
-    </body>
-</html>
+        <div class="bg"
+            style="background-image: url('https://cdn.steemitimages.com/DQmT6CbFs1SFZgnaYC1LNYJa6hbiEqEhrpTox3m2pcxCH93/maintenance.png');
+            height: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            ">
+        </div>
