@@ -23,7 +23,8 @@ subtitle: 4,833 PRE Staked Node
       '2021-07',
       '2021-08',
       '2021-09',
-      '2021-10'
+      '2021-10',
+      '2021-11',
     ];
 
     const data = {
@@ -44,7 +45,8 @@ subtitle: 4,833 PRE Staked Node
             212.62082680586974,
             157.23791076059845,
             43.09407037490494,
-            42.74941024311731          
+            42.74941024311731,
+            61.0318071775247
         ],
         yAxisID: 'total_pre_earned',
         order: 2 // dataset drawing order
@@ -65,7 +67,8 @@ subtitle: 4,833 PRE Staked Node
             266,
             168,
             332,
-            196
+            196,
+            149
         ],
         yAxisID: 'total_requests',
         order: 1 // dataset drawing order
