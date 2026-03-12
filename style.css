@@ -1,0 +1,166 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f6f8fa;
+    /* GitHub Light Mode bg */
+    color: #24292f;
+    /* GitHub dark gray text */
+    font-family: 'Fira Code', monospace;
+    margin: 0;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#terminal {
+    width: 100%;
+    max-width: 800px;
+    height: 600px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid #d0d7de;
+}
+
+.title-bar {
+    background-color: #f6f8fa;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    padding: 0 15px;
+    border-bottom: 1px solid #d0d7de;
+}
+
+.buttons {
+    display: flex;
+    gap: 8px;
+}
+
+.buttons div {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.close {
+    background-color: #ff5f56;
+}
+
+.minimize {
+    background-color: #ffbd2e;
+}
+
+.maximize {
+    background-color: #27c93f;
+}
+
+.title {
+    flex-grow: 1;
+    text-align: center;
+    color: #57606a;
+    font-size: 13px;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    margin-right: 44px;
+    /* Offset for centered text */
+}
+
+.window {
+    padding: 20px;
+    flex-grow: 1;
+    overflow-y: auto;
+    background-color: #ffffff;
+    scrollbar-color: #d0d7de transparent;
+    scrollbar-width: thin;
+}
+
+.window::-webkit-scrollbar {
+    width: 8px;
+}
+
+.window::-webkit-scrollbar-thumb {
+    background-color: #d0d7de;
+    border-radius: 4px;
+}
+
+.input-line {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}
+
+.prompt {
+    margin-right: 10px;
+    color: #1a7f37;
+    /* GitHub darker green for light theme */
+    white-space: nowrap;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    background: transparent;
+    border: none;
+    color: #24292f;
+    font-family: 'Fira Code', monospace;
+    font-size: 15px;
+    flex-grow: 1;
+    outline: none;
+}
+
+#output div {
+    margin-bottom: 8px;
+    line-height: 1.6;
+    word-wrap: break-word;
+    font-size: 15px;
+}
+
+.command-line {
+    display: flex;
+    gap: 10px;
+}
+
+.command {
+    color: #24292f;
+    font-weight: bold;
+}
+
+.response {
+    color: #57606a;
+}
+
+.error {
+    color: #cf222e;
+}
+
+.accent {
+    color: #0969da;
+}
+
+/* GitHub Blue */
+.success {
+    color: #1a7f37;
+}
+
+.profile-img {
+    width: 150px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    display: block;
+}
+
+a {
+    color: #0969da;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
